@@ -1,6 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome Commuplace App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+![MuMu12-20250224-211354](https://github.com/user-attachments/assets/250cb29f-d80b-4251-b4c8-73df4ed17164)
+![MuMu12-20250224-211432](https://github.com/user-attachments/assets/62854919-6bff-45be-8499-590294b7d34b)
+![MuMu12-20250224-211451](https://github.com/user-attachments/assets/5f80b87f-aa25-4f22-b2f8-ee1a5430328f)
+
+
 
 ## Get started
 
