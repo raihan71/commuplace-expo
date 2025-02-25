@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Commuplace",
+    "slug": "MartketPlaceCommunity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "martketplacecommunity",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.commuplace.martketplacecommunity"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon/foreground.png",
+        "backgroundColor": "#fff"
+      },
+      "package": "com.commuplace.martketplacecommunity"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/adaptive-icon/foreground.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#fff",
+          "imageWidth": 200
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b6bcc359-3531-4cda-b8b1-1f694387e3cd"
+      }
+    }
+  }
+}
