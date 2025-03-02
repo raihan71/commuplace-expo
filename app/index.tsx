@@ -6,7 +6,7 @@ import {
   SignedIn,
   SignedOut,
 } from '@clerk/clerk-expo';
-import store from './store/store';
+import store from './store';
 import Loading from './components/Loading';
 
 const TabNavigation = lazy(
